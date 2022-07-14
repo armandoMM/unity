@@ -1,0 +1,3 @@
+--- C:\Users\yeckz\Documents\makehuman\v1py3\plugin_logs\assetdownload.txt ---
+
+[WARN ] assetdb.py/_loadRemoteDB():87 Remote json does not exist locally

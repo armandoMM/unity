@@ -1,0 +1,883 @@
+Initialized logging
+VERSION: 1.2.0 final
+SHORT VERSION: final
+LONG VERSION: 1.2.0 final (HEAD:c28443c2)
+BASEMESH VERSION: hm08
+IS BUILT (FROZEN): No
+IS RELEASE VERSION: Yes
+DEFAULT ENCODING: utf-8
+FILESYSTEM ENCODING: utf-8
+STDOUT ENCODING: cp1252
+LOCALE PREFERRED ENCODING: cp1252
+WORKING DIRECTORY: C:\Users\yeckz\AppData\Local\makehuman-community\makehuman
+HOME LOCATION: C:/Users/yeckz/Documents
+PYTHON PATH: ./;./lib;./apps;./shared;./apps/gui;./core;C:\Users\yeckz\AppData\Local\makehuman-community\Python\python37.zip;C:\Users\yeckz\AppData\Local\makehuman-community\Python;C:\Users\yeckz\AppData\Local\makehuman-community\pkgs
+DLL PATH: C:\Users\yeckz\AppData\Local\makehuman-community\pkgs\PyQt5\Qt\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\MATLAB Production Server\R2015a\runtime\win64;C:\Program Files\MATLAB\MATLAB Production Server\R2015a\bin;C:\Program Files\MATLAB\MATLAB Production Server\R2015a\polyspace\bin;C:\Program Files\Amazon\AWSCLI\bin\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_212\bin;C:\Program Files\PuTTY\;C:\Oracle\instantclient_18_5;C:\Oracle\instantclient_19_10;C:\Oracle\instantclient_12_2;C:\Users\yeckz\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\yeckz\AppData\Local\Programs\Python\Python37-32\;C:\Users\yeckz\AppData\Local\Microsoft\WindowsApps;C:\Users\yeckz\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\yeckz\AppData\Roaming\npm;C:\tools\dart-sdk\bin;C:\Users\yeckz\AppData\Roaming\Pub\Cache\bin;C:\src\flutter\bin;C:\ProgramData\chocolatey\lib\ghc\tools\ghc-8.10.2\bin;C:\tools\msys64;C:\Program Files\Azure Data Studio\bin;C:\Users\yeckz\AppData\Roaming\cabal\bin;C:\tools\ghc-9.0.1\bin;
+SYS.VERSION: 3.7.6 (tags/v3.7.6:43364a7ae0, Dec 19 2019, 00:42:30) [MSC v.1916 64 bit (AMD64)]
+SYS.PLATFORM: win32
+SYS.EXECUTABLE: C:\Users\yeckz\AppData\Local\makehuman-community\Python\pythonw.exe
+PLATFORM.MACHINE: AMD64
+PLATFORM.PROCESSOR: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+PLATFORM.UNAME.RELEASE: 10
+PLATFORM.WIN32_VER: 10 10.0.19041 SP0 
+NUMPY.VERSION: 1.18.1
+No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+QT.VERSION: 5.12.7
+QT.JPG_SUPPORT: supported
+QT.SVG_SUPPORT: supported
+QT.PLUGIN_PATH: C:/Users/yeckz/AppData/Local/makehuman-community/pkgs/PyQt5/Qt/plugins;C:/Users/yeckz/AppData/Local/makehuman-community/Python
+QT.PLUGIN_PATH_ENV: 
+QT.CONF: NOT PRESENT
+PYOPENGL.VERSION: 3.1.0
+NOSHADERS: not set
+NOSAMPLEBUFFERS: not set
+GL.VENDOR: Intel
+GL.RENDERER: Intel(R) HD Graphics 620
+GL.VERSION: 4.6.0 - Build 27.20.100.9171
+4.60 - Build 27.20.100.9171
+GLSL.VERSION: 4.60 - Build 27.20.100.9171
+GL.EXTENSION: GL_ARB_multisample enabled (4x samples)
+Creating new texture for image data/textures/texture_notfound.png.
+GL.EXTENSION: GL_ARB_texture_non_power_of_two enabled
+initTexture: 256, 256, False
+Setting language to english
+Setting language to english
+Initializing default theme first.
+Theme default version 1.2.0
+Loaded theme data/themes/default.mht
+Using Qt system style windowsvista
+Loading human
+Loading binary mesh data/3dobjs/base.npz.
+NPZ-File: maxmimum number of faces for one vertex: 5
+Loading material from file data/skins/default.mhmat
+Shader: adding built-in uniform b'gl_NormalMatrix'
+Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+VectorUniform(AdditiveShading) = [0.]
+VectorUniform(AdditiveShading) = [0.]
+Loaded vertex weights MakeHuman weights from file C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/rigs/default_weights.mhw
+Loading scene
+Loading scene file: data/scenes/default.mhscene
+Loading main GUI
+Assigning setting loaddir value C:/Users/yeckz/Documents/makehuman/v1py3/models that was loaded before the setting was declared.
+Assigning setting savedir value C:/Users/yeckz/Documents/makehuman/v1py3/models that was loaded before the setting was declared.
+Assigning setting exportdir value C:/Users/yeckz/Documents/makehuman/v1py3/exports that was loaded before the setting was declared.
+Loading plugins
+Importing plugin 0_modeling_0_modifiers
+Imported plugin 0_modeling_0_modifiers
+Loading plugin 0_modeling_0_modifiers
+Loading modifiers from data/modifiers/modeling_modifiers.json
+Attempting to load targets from NPZ file.
+1258 targets loaded from NPZ file succesfully.
+Loaded 249 modifiers from file data/modifiers/modeling_modifiers.json
+Loaded 249 modifier descriptions from file data/modifiers/modeling_modifiers_desc.json
+Loaded plugin 0_modeling_0_modifiers
+Importing plugin 0_modeling_8_random
+Imported plugin 0_modeling_8_random
+Loading plugin 0_modeling_8_random
+Loaded plugin 0_modeling_8_random
+Importing plugin 0_modeling_9_custom_targets
+Imported plugin 0_modeling_9_custom_targets
+Loading plugin 0_modeling_9_custom_targets
+Loaded plugin 0_modeling_9_custom_targets
+Importing plugin 0_modeling_a_measurement
+Imported plugin 0_modeling_a_measurement
+Loading plugin 0_modeling_a_measurement
+Loading modifiers from data/modifiers/measurement_modifiers.json
+Loaded 20 modifiers from file data/modifiers/measurement_modifiers.json
+Loaded 20 modifier descriptions from file data/modifiers/measurement_modifiers_desc.json
+Loaded plugin 0_modeling_a_measurement
+Importing plugin 0_modeling_background
+Imported plugin 0_modeling_background
+Loading plugin 0_modeling_background
+Loaded plugin 0_modeling_background
+Importing plugin 1_convert_model_tags
+Imported plugin 1_convert_model_tags
+Loading plugin 1_convert_model_tags
+Loaded plugin 1_convert_model_tags
+Importing plugin 1_mhapi
+Imported plugin 1_mhapi
+Loading plugin 1_mhapi
+Loaded plugin 1_mhapi
+Importing plugin 2_foot_posing
+Imported plugin 2_foot_posing
+Loading plugin 2_foot_posing
+Loaded plugin 2_foot_posing
+Importing plugin 2_posing_expression
+Imported plugin 2_posing_expression
+Loading plugin 2_posing_expression
+Loaded plugin 2_posing_expression
+Importing plugin 3_libraries_clothes_chooser
+Imported plugin 3_libraries_clothes_chooser
+Loading plugin 3_libraries_clothes_chooser
+Loaded plugin 3_libraries_clothes_chooser
+Importing plugin 3_libraries_eye_chooser
+Imported plugin 3_libraries_eye_chooser
+Loading plugin 3_libraries_eye_chooser
+According to mh.getSysDataPath here's high poly eyes data/eyes/high-poly/high-poly.mhclo
+Selecting proxy file "data/eyes/high-poly/high-poly.mhclo" from eyes library.
+Loading binary proxy data/eyes/high-poly/high-poly.mhpxy.
+Loading proxy file: data/eyes/high-poly/high-poly.mhpxy.
+Loading material from file C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyes/materials/brown.mhmat
+Shader: adding built-in uniform b'gl_NormalMatrix'
+Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+VectorUniform(AdditiveShading) = [0.]
+VectorUniform(AdditiveShading) = [0.]
+Loading binary mesh C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyes/high-poly/high-poly.npz.
+NPZ-File: maxmimum number of faces for one vertex: 4
+remapping weights for proxy HighPolyEyes
+remapping weights for HighPolyEyes took 0.09353 seconds
+Loaded plugin 3_libraries_eye_chooser
+Importing plugin 3_libraries_eyebrows
+Imported plugin 3_libraries_eyebrows
+Loading plugin 3_libraries_eyebrows
+Loaded plugin 3_libraries_eyebrows
+Importing plugin 3_libraries_eyelashes
+Imported plugin 3_libraries_eyelashes
+Loading plugin 3_libraries_eyelashes
+Loaded plugin 3_libraries_eyelashes
+Importing plugin 3_libraries_material_chooser
+Imported plugin 3_libraries_material_chooser
+Loading plugin 3_libraries_material_chooser
+Loaded plugin 3_libraries_material_chooser
+Importing plugin 3_libraries_polygon_hair_chooser
+Imported plugin 3_libraries_polygon_hair_chooser
+Loading plugin 3_libraries_polygon_hair_chooser
+Loaded plugin 3_libraries_polygon_hair_chooser
+Importing plugin 3_libraries_pose
+Imported plugin 3_libraries_pose
+Loading plugin 3_libraries_pose
+Loaded plugin 3_libraries_pose
+Importing plugin 3_libraries_proxy_chooser
+Imported plugin 3_libraries_proxy_chooser
+Loading plugin 3_libraries_proxy_chooser
+Loaded plugin 3_libraries_proxy_chooser
+Importing plugin 3_libraries_skeleton
+Imported plugin 3_libraries_skeleton
+Loading plugin 3_libraries_skeleton
+Loaded plugin 3_libraries_skeleton
+Importing plugin 3_libraries_teeth
+Imported plugin 3_libraries_teeth
+Loading plugin 3_libraries_teeth
+Loaded plugin 3_libraries_teeth
+Importing plugin 3_libraries_tongue
+Imported plugin 3_libraries_tongue
+Loading plugin 3_libraries_tongue
+Loaded plugin 3_libraries_tongue
+Importing plugin 4_rendering_9_viewer
+Imported plugin 4_rendering_9_viewer
+Loading plugin 4_rendering_9_viewer
+Loaded plugin 4_rendering_9_viewer
+Importing plugin 4_rendering_opengl
+Imported plugin 4_rendering_opengl
+Loading plugin 4_rendering_opengl
+Assigning setting rendering_width value 800 that was loaded before the setting was declared.
+Assigning setting rendering_height value 600 that was loaded before the setting was declared.
+Assigning setting GL_RENDERER_SSS value False that was loaded before the setting was declared.
+Assigning setting GL_RENDERER_AA value True that was loaded before the setting was declared.
+Loaded plugin 4_rendering_opengl
+Importing plugin 4_rendering_scene
+Imported plugin 4_rendering_scene
+Loading plugin 4_rendering_scene
+Setting rendering_width is already declared. Adding it again has no effect.
+Setting rendering_height is already declared. Adding it again has no effect.
+Loaded plugin 4_rendering_scene
+Importing plugin 5_settings_0_settings
+Imported plugin 5_settings_0_settings
+Loading plugin 5_settings_0_settings
+Setting language to english
+Theme makehuman version 1.2.0
+Loaded theme data/themes/makehuman.mht
+Loaded Qt style data/themes/makehuman.qss
+Loaded plugin 5_settings_0_settings
+Importing plugin 5_settings_mouse
+Imported plugin 5_settings_mouse
+Loading plugin 5_settings_mouse
+Loaded plugin 5_settings_mouse
+Importing plugin 5_settings_shortcuts
+Imported plugin 5_settings_shortcuts
+Loading plugin 5_settings_shortcuts
+Loaded plugin 5_settings_shortcuts
+Importing plugin 5_settings_userplugins
+Imported plugin 5_settings_userplugins
+Loading plugin 5_settings_userplugins
+Loaded plugin 5_settings_userplugins
+Importing plugin 6_help
+Imported plugin 6_help
+Loading plugin 6_help
+Loaded plugin 6_help
+Importing plugin 7_expression_mixer
+Imported plugin 7_expression_mixer
+Loading plugin 7_expression_mixer
+Loaded plugin 7_expression_mixer
+Importing plugin 7_logging
+Imported plugin 7_logging
+Loading plugin 7_logging
+Loaded plugin 7_logging
+Importing plugin 8_asset_downloader
+Imported plugin 8_asset_downloader
+Loading plugin 8_asset_downloader
+Loaded plugin 8_asset_downloader
+Importing plugin 8_server_socket
+Imported plugin 8_server_socket
+Loading plugin 8_server_socket
+Loaded plugin 8_server_socket
+Importing plugin 9_export_bvh
+Imported plugin 9_export_bvh
+Loading plugin 9_export_bvh
+Loaded plugin 9_export_bvh
+Importing plugin 9_export_collada
+Imported plugin 9_export_collada
+Loading plugin 9_export_collada
+Loaded plugin 9_export_collada
+Importing plugin 9_export_fbx
+Imported plugin 9_export_fbx
+Loading plugin 9_export_fbx
+Loaded plugin 9_export_fbx
+Importing plugin 9_export_light
+Imported plugin 9_export_light
+Loading plugin 9_export_light
+Loaded plugin 9_export_light
+Importing plugin 9_export_mhx2
+Imported plugin 9_export_mhx2
+Loading plugin 9_export_mhx2
+Loaded plugin 9_export_mhx2
+Importing plugin 9_export_obj
+Imported plugin 9_export_obj
+Loading plugin 9_export_obj
+Loaded plugin 9_export_obj
+Importing plugin 9_export_ogre
+Imported plugin 9_export_ogre
+Loading plugin 9_export_ogre
+Loaded plugin 9_export_ogre
+Importing plugin 9_export_stl
+Imported plugin 9_export_stl
+Loading plugin 9_export_stl
+Loaded plugin 9_export_stl
+Importing plugin 9_export_uvmap
+Imported plugin 9_export_uvmap
+Loading plugin 9_export_uvmap
+Loaded plugin 9_export_uvmap
+Importing plugin 9_massproduce
+Imported plugin 9_massproduce
+Loading plugin 9_massproduce
+Loaded plugin 9_massproduce
+Loading GUI
+showing category Modelling
+showing task Macro modelling
+Loading theme
+Theme makehuman version 1.2.0
+Loaded theme data/themes/makehuman.mht
+Loaded Qt style data/themes/makehuman.qss
+Applying targets
+Updating skeleton joint positions
+Done baking animations
+Loading macro targets
+Loading done
+
+Creating new texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+initTexture: 256, 256, False
+Creating new texture for image C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyes/materials/brown_eye.png.
+initTexture: 1024, 1024, False
+Creating new texture for image C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/litspheres/skinmat_eye.png.
+initTexture: 256, 256, False
+hiding category Modelling
+showing category Files
+hiding task Macro modelling
+showing task Load
+Loading human from MHM file C:/Users/yeckz/Documents/makehuman/v1py3/models\MyModelArmand.mhm.
+Loading skeleton from None
+Loading special foot pose from None
+Loading expression from None
+Clothes library: updating face masks (face hiding enabled).
+0 faces masked for base.obj
+Selecting proxy file "data/eyes/high-poly/high-poly.mhclo" from eyes library.
+Loading binary proxy data/eyes/high-poly/high-poly.mhpxy.
+Loading proxy file: data/eyes/high-poly/high-poly.mhpxy.
+Loading material from file C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyes/materials/brown.mhmat
+Loading binary mesh C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyes/high-poly/high-poly.npz.
+NPZ-File: maxmimum number of faces for one vertex: 4
+remapping weights for proxy HighPolyEyes
+remapping weights for HighPolyEyes took 0.08758 seconds
+Eye material reset to <material.Material object at 0x0000025EEA9D5FC8>
+Version v1.2.0
+Model Name Armando
+Selecting proxy file "C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/tongue/tongue01/tongue01.mhpxy" from tongue library.
+Loading binary proxy C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/tongue/tongue01/tongue01.mhpxy.
+Loading proxy file: C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/tongue/tongue01/tongue01.mhpxy.
+Loading material from file C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/tongue/tongue01/tongue01.mhmat
+Shader: adding built-in uniform b'gl_NormalMatrix'
+Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+VectorUniform(AdditiveShading) = [0.]
+VectorUniform(AdditiveShading) = [0.]
+Shader: adding built-in uniform b'gl_NormalMatrix'
+Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+VectorUniform(AdditiveShading) = [0.]
+VectorUniform(AdditiveShading) = [0.]
+Loading binary mesh C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/tongue/tongue01/tongue01.npz.
+NPZ-File: maxmimum number of faces for one vertex: 4
+remapping weights for proxy tongue01
+remapping weights for tongue01 took 0.07534 seconds
+Selecting proxy file "C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/teeth/teeth_base/teeth_base.mhpxy" from teeth library.
+Loading binary proxy C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/teeth/teeth_base/teeth_base.mhpxy.
+Loading proxy file: C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/teeth/teeth_base/teeth_base.mhpxy.
+Loading material from file C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/teeth/materials/teeth.mhmat
+VectorUniform(ambient) = [0. 0. 0.]
+VectorUniform(diffuse) = [0. 0. 0. 0.]
+VectorUniform(emissive) = [0. 0. 0.]
+VectorUniform(specular) = [0. 0. 0. 0.]
+Shader: adding built-in uniform b'gl_NormalMatrix'
+Shader: adding built-in uniform b'gl_ModelViewMatrix'
+Shader: adding built-in uniform b'gl_LightSource[0].ambient'
+Shader: adding built-in uniform b'gl_LightSource[1].ambient'
+Shader: adding built-in uniform b'gl_LightSource[2].ambient'
+Shader: adding built-in uniform b'gl_LightSource[3].ambient'
+Shader: adding built-in uniform b'gl_LightSource[4].ambient'
+Shader: adding built-in uniform b'gl_LightSource[5].ambient'
+Shader: adding built-in uniform b'gl_LightSource[6].ambient'
+Shader: adding built-in uniform b'gl_LightSource[7].ambient'
+Shader: adding built-in uniform b'gl_LightSource[0].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[1].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[2].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[3].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[4].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[5].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[6].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[7].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[0].specular'
+Shader: adding built-in uniform b'gl_LightSource[1].specular'
+Shader: adding built-in uniform b'gl_LightSource[2].specular'
+Shader: adding built-in uniform b'gl_LightSource[3].specular'
+Shader: adding built-in uniform b'gl_LightSource[4].specular'
+Shader: adding built-in uniform b'gl_LightSource[5].specular'
+Shader: adding built-in uniform b'gl_LightSource[6].specular'
+Shader: adding built-in uniform b'gl_LightSource[7].specular'
+Shader: adding built-in uniform b'gl_LightSource[0].position'
+Shader: adding built-in uniform b'gl_LightSource[1].position'
+Shader: adding built-in uniform b'gl_LightSource[2].position'
+Shader: adding built-in uniform b'gl_LightSource[3].position'
+Shader: adding built-in uniform b'gl_LightSource[4].position'
+Shader: adding built-in uniform b'gl_LightSource[5].position'
+Shader: adding built-in uniform b'gl_LightSource[6].position'
+Shader: adding built-in uniform b'gl_LightSource[7].position'
+Shader: adding built-in uniform b'gl_LightSource[0].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[1].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[2].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[3].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[4].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[5].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[6].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[7].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[0].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[1].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[2].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[3].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[4].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[5].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[6].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[7].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[0].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[1].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[2].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[3].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[4].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[5].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[6].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[7].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[0].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[1].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[2].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[3].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[4].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[5].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[6].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[7].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[0].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[1].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[2].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[3].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[4].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[5].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[6].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[7].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[0].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[1].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[2].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[3].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[4].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[5].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[6].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[7].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[0].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[1].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[2].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[3].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[4].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[5].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[6].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[7].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[0].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[1].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[2].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[3].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[4].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[5].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[6].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[7].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_FrontLightModelProduct.sceneColor'
+Shader: adding built-in uniform b'gl_FrontMaterial.emission'
+Shader: adding built-in uniform b'gl_FrontMaterial.ambient'
+Shader: adding built-in uniform b'gl_FrontMaterial.diffuse'
+Shader: adding built-in uniform b'gl_FrontMaterial.specular'
+Shader: adding built-in uniform b'gl_FrontMaterial.shininess'
+Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+VectorUniform(ambient) = [0. 0. 0.]
+VectorUniform(diffuse) = [0. 0. 0. 0.]
+VectorUniform(emissive) = [0. 0. 0.]
+VectorUniform(specular) = [0. 0. 0. 0.]
+VectorUniform(ambient) = [0. 0. 0.]
+VectorUniform(diffuse) = [0. 0. 0. 0.]
+VectorUniform(emissive) = [0. 0. 0.]
+VectorUniform(specular) = [0. 0. 0. 0.]
+Shader: adding built-in uniform b'gl_NormalMatrix'
+Shader: adding built-in uniform b'gl_ModelViewMatrix'
+Shader: adding built-in uniform b'gl_LightSource[0].ambient'
+Shader: adding built-in uniform b'gl_LightSource[1].ambient'
+Shader: adding built-in uniform b'gl_LightSource[2].ambient'
+Shader: adding built-in uniform b'gl_LightSource[3].ambient'
+Shader: adding built-in uniform b'gl_LightSource[4].ambient'
+Shader: adding built-in uniform b'gl_LightSource[5].ambient'
+Shader: adding built-in uniform b'gl_LightSource[6].ambient'
+Shader: adding built-in uniform b'gl_LightSource[7].ambient'
+Shader: adding built-in uniform b'gl_LightSource[0].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[1].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[2].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[3].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[4].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[5].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[6].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[7].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[0].specular'
+Shader: adding built-in uniform b'gl_LightSource[1].specular'
+Shader: adding built-in uniform b'gl_LightSource[2].specular'
+Shader: adding built-in uniform b'gl_LightSource[3].specular'
+Shader: adding built-in uniform b'gl_LightSource[4].specular'
+Shader: adding built-in uniform b'gl_LightSource[5].specular'
+Shader: adding built-in uniform b'gl_LightSource[6].specular'
+Shader: adding built-in uniform b'gl_LightSource[7].specular'
+Shader: adding built-in uniform b'gl_LightSource[0].position'
+Shader: adding built-in uniform b'gl_LightSource[1].position'
+Shader: adding built-in uniform b'gl_LightSource[2].position'
+Shader: adding built-in uniform b'gl_LightSource[3].position'
+Shader: adding built-in uniform b'gl_LightSource[4].position'
+Shader: adding built-in uniform b'gl_LightSource[5].position'
+Shader: adding built-in uniform b'gl_LightSource[6].position'
+Shader: adding built-in uniform b'gl_LightSource[7].position'
+Shader: adding built-in uniform b'gl_LightSource[0].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[1].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[2].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[3].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[4].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[5].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[6].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[7].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[0].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[1].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[2].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[3].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[4].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[5].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[6].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[7].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[0].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[1].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[2].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[3].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[4].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[5].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[6].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[7].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[0].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[1].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[2].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[3].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[4].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[5].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[6].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[7].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[0].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[1].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[2].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[3].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[4].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[5].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[6].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[7].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[0].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[1].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[2].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[3].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[4].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[5].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[6].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[7].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[0].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[1].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[2].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[3].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[4].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[5].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[6].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[7].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[0].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[1].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[2].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[3].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[4].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[5].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[6].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[7].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_FrontLightModelProduct.sceneColor'
+Shader: adding built-in uniform b'gl_FrontMaterial.emission'
+Shader: adding built-in uniform b'gl_FrontMaterial.ambient'
+Shader: adding built-in uniform b'gl_FrontMaterial.diffuse'
+Shader: adding built-in uniform b'gl_FrontMaterial.specular'
+Shader: adding built-in uniform b'gl_FrontMaterial.shininess'
+Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+VectorUniform(ambient) = [0. 0. 0.]
+VectorUniform(diffuse) = [0. 0. 0. 0.]
+VectorUniform(emissive) = [0. 0. 0.]
+VectorUniform(specular) = [0. 0. 0. 0.]
+Loading binary mesh C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/teeth/teeth_base/teeth_base.npz.
+NPZ-File: maxmimum number of faces for one vertex: 5
+remapping weights for proxy Teeth_Base
+remapping weights for Teeth_Base took 0.08929 seconds
+Selecting proxy file "C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/hair/short01/short01.mhpxy" from hair library.
+Loading binary proxy C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/hair/short01/short01.mhpxy.
+Loading proxy file: C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/hair/short01/short01.mhpxy.
+Loading material from file C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/hair/short01/short01.mhmat
+Loading binary mesh C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/hair/short01/short01.npz.
+NPZ-File: maxmimum number of faces for one vertex: 5
+remapping weights for proxy short01
+remapping weights for short01 took 0.12087 seconds
+Selecting proxy file "C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyelashes/eyelashes02/eyelashes02.mhpxy" from eyelashes library.
+Loading binary proxy C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyelashes/eyelashes02/eyelashes02.mhpxy.
+Loading proxy file: C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyelashes/eyelashes02/eyelashes02.mhpxy.
+Loading material from file C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyelashes/eyelashes02/eyelashes02.mhmat
+Loading binary mesh C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyelashes/eyelashes02/eyelashes02.npz.
+NPZ-File: maxmimum number of faces for one vertex: 4
+remapping weights for proxy eyelashes02
+remapping weights for eyelashes02 took 0.11495 seconds
+Loading skeleton from C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/rigs/game_engine.mhskel
+Skeleton Game_engine has 7 weights per vertex.
+Bone Root has no resolved references ['Root'], cannot remap an orientation plane
+No normal found for bone Root: no reference bones and could not map implicitly by name
+Calculated maximum number of faces for one vertex: 4
+Calculated maximum number of poles for one vertex: 4
+Selecting proxy file "C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyebrows/eyebrow008/eyebrow008.mhpxy" from eyebrows library.
+Loading binary proxy C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyebrows/eyebrow008/eyebrow008.mhpxy.
+Loading proxy file: C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyebrows/eyebrow008/eyebrow008.mhpxy.
+Loading material from file C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyebrows/eyebrow008/eyebrow008.mhmat
+Loading binary mesh C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyebrows/eyebrow008/eyebrow008.npz.
+NPZ-File: maxmimum number of faces for one vertex: 4
+remapping weights for proxy eyebrow008
+remapping weights for eyebrow008 took 0.18560 seconds
+Selecting proxy file "C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyes/high-poly/high-poly.mhpxy" from eyes library.
+Loading binary proxy C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyes/high-poly/high-poly.mhpxy.
+Loading proxy file: C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyes/high-poly/high-poly.mhpxy.
+Loading material from file C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyes/materials/brown.mhmat
+Proxy with UUID 2c12f43b-1303-432c-b7ce-d78346baf2e6 (C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyes/high-poly/high-poly.mhpxy) already loaded in eyes library. Skipping.
+Selecting proxy file "C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/clothes/male_casualsuit04/male_casualsuit04.mhpxy" from clothes library.
+Loading binary proxy C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/clothes/male_casualsuit04/male_casualsuit04.mhpxy.
+Loading proxy file: C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/clothes/male_casualsuit04/male_casualsuit04.mhpxy.
+Loading material from file C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/clothes/male_casualsuit04/male_casualsuit04.mhmat
+Shader: adding built-in uniform b'gl_NormalMatrix'
+Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+VectorUniform(AdditiveShading) = [0.]
+VectorUniform(normalmapIntensity) = [1.]
+VectorUniform(AdditiveShading) = [0.]
+VectorUniform(normalmapIntensity) = [1.]
+Loading binary mesh C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/clothes/male_casualsuit04/male_casualsuit04.npz.
+NPZ-File: maxmimum number of faces for one vertex: 5
+remapping weights for proxy male_casualsuit04
+remapping weights for male_casualsuit04 took 0.14960 seconds
+Selecting proxy file "C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/clothes/shoes05/shoes05.mhpxy" from clothes library.
+Loading binary proxy C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/clothes/shoes05/shoes05.mhpxy.
+Loading proxy file: C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/clothes/shoes05/shoes05.mhpxy.
+Loading material from file C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/clothes/shoes05/shoes05.mhmat
+Loaded vertex weights Shoes05 weights from file C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/clothes/shoes05/shoes05.mhw
+Loading binary mesh C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/clothes/shoes05/shoes05.npz.
+NPZ-File: maxmimum number of faces for one vertex: 5
+Loading material from file C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/skins/default.mhmat
+Loading material from file C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/hair/short01/short01.mhmat
+Loading material from file C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyes/materials/brown.mhmat
+Loading material from file C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyebrows/eyebrow008/eyebrow008.mhmat
+Loading material from file C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyelashes/eyelashes02/eyelashes02.mhmat
+Loading material from file C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/teeth/materials/teeth.mhmat
+Loading material from file C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/tongue/tongue01/tongue01.mhmat
+Finalizing MHM loading.
+Clothes library: updating face masks (face hiding enabled).
+0 faces masked for male_casualsuit04.obj
+Loaded 5026 deleted verts (5084 faces) from male_casualsuit04 proxy.
+0 faces masked for shoes05.obj
+Loaded 3206 deleted verts (3150 faces) from shoes05 proxy.
+7980 faces masked for base.obj
+Updating skeleton joint positions
+Done baking animations
+Done loading MHM file.
+Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+initTexture: 256, 256, False
+VectorUniform(ambient) = [0. 0. 0.]
+VectorUniform(diffuse) = [0. 0. 0. 0.]
+VectorUniform(emissive) = [0. 0. 0.]
+VectorUniform(specular) = [0. 0. 0. 0.]
+Shader: adding built-in uniform b'gl_NormalMatrix'
+Shader: adding built-in uniform b'gl_ModelViewMatrix'
+Shader: adding built-in uniform b'gl_LightSource[0].ambient'
+Shader: adding built-in uniform b'gl_LightSource[1].ambient'
+Shader: adding built-in uniform b'gl_LightSource[2].ambient'
+Shader: adding built-in uniform b'gl_LightSource[3].ambient'
+Shader: adding built-in uniform b'gl_LightSource[4].ambient'
+Shader: adding built-in uniform b'gl_LightSource[5].ambient'
+Shader: adding built-in uniform b'gl_LightSource[6].ambient'
+Shader: adding built-in uniform b'gl_LightSource[7].ambient'
+Shader: adding built-in uniform b'gl_LightSource[0].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[1].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[2].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[3].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[4].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[5].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[6].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[7].diffuse'
+Shader: adding built-in uniform b'gl_LightSource[0].specular'
+Shader: adding built-in uniform b'gl_LightSource[1].specular'
+Shader: adding built-in uniform b'gl_LightSource[2].specular'
+Shader: adding built-in uniform b'gl_LightSource[3].specular'
+Shader: adding built-in uniform b'gl_LightSource[4].specular'
+Shader: adding built-in uniform b'gl_LightSource[5].specular'
+Shader: adding built-in uniform b'gl_LightSource[6].specular'
+Shader: adding built-in uniform b'gl_LightSource[7].specular'
+Shader: adding built-in uniform b'gl_LightSource[0].position'
+Shader: adding built-in uniform b'gl_LightSource[1].position'
+Shader: adding built-in uniform b'gl_LightSource[2].position'
+Shader: adding built-in uniform b'gl_LightSource[3].position'
+Shader: adding built-in uniform b'gl_LightSource[4].position'
+Shader: adding built-in uniform b'gl_LightSource[5].position'
+Shader: adding built-in uniform b'gl_LightSource[6].position'
+Shader: adding built-in uniform b'gl_LightSource[7].position'
+Shader: adding built-in uniform b'gl_LightSource[0].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[1].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[2].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[3].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[4].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[5].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[6].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[7].halfVector'
+Shader: adding built-in uniform b'gl_LightSource[0].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[1].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[2].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[3].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[4].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[5].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[6].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[7].spotDirection'
+Shader: adding built-in uniform b'gl_LightSource[0].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[1].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[2].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[3].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[4].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[5].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[6].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[7].spotExponent'
+Shader: adding built-in uniform b'gl_LightSource[0].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[1].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[2].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[3].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[4].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[5].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[6].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[7].spotCutoff'
+Shader: adding built-in uniform b'gl_LightSource[0].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[1].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[2].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[3].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[4].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[5].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[6].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[7].spotCosCutoff'
+Shader: adding built-in uniform b'gl_LightSource[0].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[1].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[2].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[3].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[4].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[5].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[6].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[7].constantAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[0].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[1].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[2].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[3].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[4].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[5].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[6].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[7].linearAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[0].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[1].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[2].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[3].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[4].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[5].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[6].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_LightSource[7].quadraticAttenuation'
+Shader: adding built-in uniform b'gl_FrontLightModelProduct.sceneColor'
+Shader: adding built-in uniform b'gl_FrontMaterial.emission'
+Shader: adding built-in uniform b'gl_FrontMaterial.ambient'
+Shader: adding built-in uniform b'gl_FrontMaterial.diffuse'
+Shader: adding built-in uniform b'gl_FrontMaterial.specular'
+Shader: adding built-in uniform b'gl_FrontMaterial.shininess'
+Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+VectorUniform(ambient) = [0. 0. 0.]
+VectorUniform(diffuse) = [0. 0. 0. 0.]
+VectorUniform(emissive) = [0. 0. 0.]
+VectorUniform(specular) = [0. 0. 0. 0.]
+Creating new texture for image C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyelashes/eyelashes02/eyelashes02.png.
+initTexture: 512, 512, False
+Creating new texture for image C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/eyebrows/eyebrow008/eyebrow008.png.
+initTexture: 512, 512, False
+Creating new texture for image C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/clothes/shoes05/shoes05_diffuse.png.
+initTexture: 1024, 1024, False
+Shader: adding built-in uniform b'gl_NormalMatrix'
+Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+VectorUniform(AdditiveShading) = [0.]
+VectorUniform(AdditiveShading) = [0.]
+Creating new texture for image C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/tongue/tongue01/tongue01_diffuse.png.
+initTexture: 1024, 1024, False
+Creating new texture for image C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/litspheres/lit_matte.png.
+initTexture: 256, 256, False
+Creating new texture for image C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/teeth/materials/teeth.png.
+initTexture: 2048, 2048, False
+Creating new texture for image C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/hair/short01/short01_diffuse.png.
+initTexture: 2048, 2048, False
+Creating new texture for image C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/litspheres/lit_hair.png.
+initTexture: 256, 256, False
+Shader: adding built-in uniform b'gl_NormalMatrix'
+Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+VectorUniform(AdditiveShading) = [0.]
+VectorUniform(normalmapIntensity) = [1.]
+VectorUniform(AdditiveShading) = [0.]
+VectorUniform(normalmapIntensity) = [1.]
+Creating new texture for image C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/clothes/male_casualsuit04/male_casualsuit04_ao.png.
+initTexture: 2048, 2048, False
+Creating new texture for image C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/clothes/male_casualsuit04/male_casualsuit04_diffuse.png.
+initTexture: 2048, 2048, False
+Creating new texture for image C:/Users/yeckz/AppData/Local/makehuman-community/makehuman/data/clothes/male_casualsuit04/male_casualsuit04_normal.png.
+initTexture: 4096, 4096, False
+hiding category Files
+showing category Utilities
+hiding task Load
+showing task Logs
+hiding category Utilities
+showing category Rendering
+hiding task Logs
+showing task Render
+hiding category Rendering
+showing category Pose/Animate
+hiding task Render
+showing task Skeleton
+Loading material from file data/materials/xray.mhmat
+Shader: adding built-in uniform b'gl_ModelViewMatrix'
+Shader: adding built-in uniform b'gl_NormalMatrix'
+Shader: adding built-in uniform b'gl_ModelViewProjectionMatrix'
+VectorUniform(ambient) = [0. 0. 0.]
+VectorUniform(edgefalloff) = [1.]
+VectorUniform(intensity) = [0.7]
+VectorUniform(ambient) = [0. 0. 0.]
+VectorUniform(edgefalloff) = [1.]
+VectorUniform(intensity) = [0.7]
+No normal found for bone Root: no reference bones and could not map implicitly by name
+Calculated maximum number of faces for one vertex: 4
+Calculated maximum number of poles for one vertex: 4
+ABOUT TO STOP APPLICATION
+Unloading plugin 0_modeling_0_modifiers
+Unloaded plugin 0_modeling_0_modifiers
+Unloading plugin 0_modeling_8_random
+Unloaded plugin 0_modeling_8_random
+Unloading plugin 0_modeling_9_custom_targets
+Unloaded plugin 0_modeling_9_custom_targets
+Unloading plugin 0_modeling_a_measurement
+Unloaded plugin 0_modeling_a_measurement
+Unloading plugin 0_modeling_background
+Unloaded plugin 0_modeling_background
+Unloading plugin 1_convert_model_tags
+Unloaded plugin 1_convert_model_tags
+Unloading plugin 1_mhapi
+Unloaded plugin 1_mhapi
+Unloading plugin 2_foot_posing
+Unloaded plugin 2_foot_posing
+Unloading plugin 2_posing_expression
+Unloaded plugin 2_posing_expression
+Unloading plugin 3_libraries_clothes_chooser
+Unloaded plugin 3_libraries_clothes_chooser
+Unloading plugin 3_libraries_eye_chooser
+Unloaded plugin 3_libraries_eye_chooser
+Unloading plugin 3_libraries_eyebrows
+Unloaded plugin 3_libraries_eyebrows
+Unloading plugin 3_libraries_eyelashes
+Unloaded plugin 3_libraries_eyelashes
+Unloading plugin 3_libraries_material_chooser
+Unloaded plugin 3_libraries_material_chooser
+Unloading plugin 3_libraries_polygon_hair_chooser
+Unloaded plugin 3_libraries_polygon_hair_chooser
+Unloading plugin 3_libraries_pose
+Unloaded plugin 3_libraries_pose
+Unloading plugin 3_libraries_proxy_chooser
+Unloaded plugin 3_libraries_proxy_chooser
+Unloading plugin 3_libraries_skeleton
+Unloaded plugin 3_libraries_skeleton
+Unloading plugin 3_libraries_teeth
+Unloaded plugin 3_libraries_teeth
+Unloading plugin 3_libraries_tongue
+Unloaded plugin 3_libraries_tongue
+Unloading plugin 4_rendering_9_viewer
+Unloaded plugin 4_rendering_9_viewer
+Unloading plugin 4_rendering_opengl
+Unloaded plugin 4_rendering_opengl
+Unloading plugin 4_rendering_scene
+Unloaded plugin 4_rendering_scene
+Unloading plugin 5_settings_0_settings
+Unloaded plugin 5_settings_0_settings
+Unloading plugin 5_settings_mouse
+Unloaded plugin 5_settings_mouse
+Unloading plugin 5_settings_shortcuts
+Unloaded plugin 5_settings_shortcuts
+Unloading plugin 5_settings_userplugins
+Unloaded plugin 5_settings_userplugins
+Unloading plugin 6_help
+Unloaded plugin 6_help
+Unloading plugin 7_expression_mixer
+Unloaded plugin 7_expression_mixer
+Unloading plugin 7_logging
+Unloaded plugin 7_logging
+Unloading plugin 8_asset_downloader
+Unloaded plugin 8_asset_downloader
+Unloading plugin 8_server_socket
+Unloaded plugin 8_server_socket
+Unloading plugin 9_export_bvh
+Unloaded plugin 9_export_bvh
+Unloading plugin 9_export_collada
+Unloaded plugin 9_export_collada
+Unloading plugin 9_export_fbx
+Unloaded plugin 9_export_fbx
+Unloading plugin 9_export_light
+Unloaded plugin 9_export_light
+Unloading plugin 9_export_mhx2
+Unloaded plugin 9_export_mhx2
+Unloading plugin 9_export_obj
+Unloaded plugin 9_export_obj
+Unloading plugin 9_export_ogre
+Unloaded plugin 9_export_ogre
+Unloading plugin 9_export_stl
+Unloaded plugin 9_export_stl
+Unloading plugin 9_export_uvmap
+Unloaded plugin 9_export_uvmap
+Unloading plugin 9_massproduce
+Unloaded plugin 9_massproduce
